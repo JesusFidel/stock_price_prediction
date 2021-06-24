@@ -129,4 +129,4 @@ class SVM_Predict():
 
 
 if __name__ == '__main__':
-    NIO = SVM_Predict(ticker='NIO',days_forecast=10)
+    NIO = SVM_Predict(ticker='NIO', days_forecast=10)
